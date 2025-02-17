@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pet Adviser</string>
+    <string name="find_pet">Find Pet</string>
+    <string name="no_breed_selected">No breed selected</string>
+    <string name="button_find_pet">Find Pet</string>  <!-- Recurso agregado -->
+    <string name="text_no_breed">No breed selected</string>  <!-- Recurso agregado -->
+
+    <!-- Categorías de mascotas -->
+    <string-array name="pet_categories">
+        <item>Pastores</item>
+        <item>Pinscher</item>
+        <item>Terrier</item>
+    </string-array>
+
+    <!-- Razas de Pastores -->
+    <string-array name="pastor_breeds">
+        <item>Pastor Catalán</item>
+        <item>Pastor Alemán</item>
+        <item>Komondor</item>
+        <item>Pastor Australiano</item>
+    </string-array>
+
+    <!-- Razas de Pinscher -->
+    <string-array name="pinscher_breeds">
+        <item>Dobermann</item>
+        <item>Pinscher Alemán</item>
+        <item>Pinscher Miniatura</item>
+        <item>Schnauzer</item>
+    </string-array>
+
+    <!-- Razas de Terrier -->
+    <string-array name="terrier_breeds">
+        <item>Yorkshire Terrier</item>
+        <item>Bull Terrier</item>
+        <item>Jack Russell Terrier</item>
+    </string-array>
+</resources>
